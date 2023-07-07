@@ -6,3 +6,5 @@ File displaying schema and queries made into a mock instagram app.
 
 The 5 oldest users
 
+What day of the week do most users register on?
+
