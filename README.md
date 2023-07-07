@@ -10,3 +10,5 @@ What day of the week do most users register on?
 
 Users who have never posted a photo
 
+The user and their photo who got the most likes
+
