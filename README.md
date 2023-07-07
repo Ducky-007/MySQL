@@ -14,4 +14,6 @@ The user and their photo who got the most likes
 
 How many times does the average user post?
 
+What are the TOP 5 most common hashtags?
 
+Users who have liked every single photo on the site
