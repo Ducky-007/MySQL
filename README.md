@@ -8,3 +8,5 @@ The 5 oldest users
 
 What day of the week do most users register on?
 
+Users who have never posted a photo
+
