@@ -12,3 +12,6 @@ Users who have never posted a photo
 
 The user and their photo who got the most likes
 
+How many times does the average user post?
+
+
